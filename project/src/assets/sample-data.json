@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "role": "editor"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "role": "viewer"
+    }
+  ]
+}
